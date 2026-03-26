@@ -96,7 +96,7 @@ export function Hero() {
               className="flex justify-center gap-4"
             >
               <a
-                href="https://github.com"
+                href="https://github.com/UttamRathore"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-white/5 border border-gray-700 rounded-lg hover:bg-cyan-500/10 hover:border-cyan-500 transition-all duration-300 hover:scale-110 group"
@@ -104,7 +104,7 @@ export function Hero() {
                 <Github className="h-6 w-6 text-gray-400 group-hover:text-cyan-400 transition-colors" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/uttam-rathore-743a7629b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-white/5 border border-gray-700 rounded-lg hover:bg-cyan-500/10 hover:border-cyan-500 transition-all duration-300 hover:scale-110 group"
