@@ -19,7 +19,7 @@ export function Footer() {
         title: 'More',
         links: [
           { name: 'Contact', href: '#contact' },
-          { name: 'Download Resume', href: '/src/imports/Uttam-Rathore.pdf' },
+          { name: 'Download Resume', href: '/src/imports/uttam-rathore-resume.pdf' },
         ],
       },
     ],
