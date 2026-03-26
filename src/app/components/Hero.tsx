@@ -80,7 +80,7 @@ export function Hero() {
                 View My Work
               </button>
               <a
-                href="/src/imports/uttam-rathore-resume.pdf"
+                href="/uttam-rathore-resume.pdf"
                 download
                 className="px-8 py-4 bg-white/5 border border-cyan-500/30 text-white rounded-lg hover:bg-white/10 hover:border-cyan-400 transition-all duration-300 font-semibold flex items-center gap-2 group"
               >
